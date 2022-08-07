@@ -87,6 +87,10 @@ border: 1px solid #ccc;
 border-radius: 4px;
 resize: vertical;
 }
+.text-error{
+font-size: small;
+color: red;
+}
 .profile-radio-content{
 display: flex;
 flex-direction: row;
